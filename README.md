@@ -1,4 +1,4 @@
-# Deploying a Node Js Application on AWS EC2
+# Deploying a Node Js Application on AWS EC2 for practicing purpose
 
 ### Testing the project locally
 
